@@ -1,2 +1,3 @@
 #!/bin/bash
-hello $USER
+$USERNAME="55c46e56af44"
+echo $USERNAME
